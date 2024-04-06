@@ -1,0 +1,478 @@
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 338-310-597
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:24:17] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:24:19] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:24:19] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:24:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:25:03] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\Image_Scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:29:44] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:29:45] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:29:45] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:29:45] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:30:40] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:30:43] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:30:43] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:30:57] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:31:26] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:31:27] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:31:27] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 338-310-597
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:31:50] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:32:48] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:32:49] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:32:50] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:32:57] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:32:58] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:33:02] "[33mGET /calculate HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:33:05] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\Image_Scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 338-310-597
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 338-310-597
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:33:39] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:33:40] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:33:40] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:33:40] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:33:41] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:33:41] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:33:41] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:33:41] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:34:14] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:34:38] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:36:33] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:36:33] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:36:48] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:37:51] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:37:52] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:37:52] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:37:52] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:37:52] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:38:14] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:38:14] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:38:37] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:38:52] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:38:52] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:38:52] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:38:52] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:38:52] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:45:55] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:45:55] "[33mGET /script.js HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:48:43] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:48:54] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:53:26] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:53:27] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:53:27] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:53:28] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:53:28] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:53:57] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:53:57] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:53:58] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:53:58] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:54:43] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:55:23] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:55:24] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:55:24] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:55:24] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:55:24] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:55:35] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:55:36] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:55:36] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:55:36] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:55:47] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:55:47] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:55:47] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:55:50] "[33mGET /calculate HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:55:53] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 21:56:58] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 22:11:13] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 22:11:14] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 22:11:14] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 22:11:15] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 22:11:40] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 22:11:40] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 22:11:40] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 22:11:41] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 22:11:41] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 22:11:41] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 22:11:41] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 338-310-597
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 22:12:03] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 22:12:04] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 22:12:04] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 22:12:04] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 22:13:05] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 22:13:06] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 22:13:06] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 22:13:06] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 22:13:07] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 22:13:07] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 22:13:07] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 22:15:05] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 338-310-597
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 22:17:11] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 22:17:12] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:root:'builtin_function_or_method' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 22:17:32] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:root:'builtin_function_or_method' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 22:17:36] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:root:'builtin_function_or_method' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 22:19:51] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:root:'builtin_function_or_method' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 22:19:55] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 22:22:39] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:root:'builtin_function_or_method' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 22:22:44] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\Image_Scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 338-310-597
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 22:25:22] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:root:'builtin_function_or_method' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 22:25:26] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\Image_Scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 338-310-597
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 22:36:36] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 22:36:38] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:root:'builtin_function_or_method' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 22:36:41] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\Image_Scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 338-310-597
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\Image_Scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 338-310-597
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\Image_Scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 338-310-597
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 23:03:05] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:root:'builtin_function_or_method' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 23:03:08] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\Image_Scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 338-310-597
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 23:04:58] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\Image_Scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 338-310-597
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\Image_Scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 338-310-597
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\Image_Scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 338-310-597
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\Image_Scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 338-310-597
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 23:05:52] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 23:06:21] "[35m[1mPOST /review HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 23:06:25] "[35m[1mPOST /review HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 23:06:26] "[37mGET /review?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 23:06:26] "[37mGET /review?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 23:06:26] "[37mGET /review?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 23:06:27] "[37mGET /review?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 23:06:27] "[37mGET /review?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 23:06:27] "[37mGET /review?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\Image_Scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 338-310-597
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\Image_Scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 338-310-597
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\Image_Scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 338-310-597
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\Image_Scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 338-310-597
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\Image_Scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 338-310-597
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 23:09:22] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:root:'builtin_function_or_method' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 23:09:26] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\Image_Scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 338-310-597
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 23:11:56] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:root:'builtin_function_or_method' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 23:11:59] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:root:'builtin_function_or_method' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 23:12:01] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\Image_Scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 338-310-597
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 23:30:07] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:root:'builtin_function_or_method' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 23:30:09] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\Image_Scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 338-310-597
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 23:30:48] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 23:31:17] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\Image_Scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 338-310-597
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\Image_Scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 338-310-597
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\Image_Scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 338-310-597
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\Image_Scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 338-310-597
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 23:32:16] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:root:'builtin_function_or_method' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 23:32:20] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\Image_Scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 338-310-597
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\Image_Scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 338-310-597
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\Image_Scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 338-310-597
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 23:32:45] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:root:'builtin_function_or_method' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 23:32:48] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\Image_Scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 338-310-597
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\Image_Scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 338-310-597
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\Image_Scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 338-310-597
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\Image_Scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 338-310-597
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\Image_Scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 338-310-597
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 23:36:02] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:root:'builtin_function_or_method' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 23:36:05] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\Image_Scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 338-310-597
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 23:40:44] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:root:'builtin_function_or_method' object is not subscriptable
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 23:40:47] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\Image_Scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 338-310-597
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 23:42:54] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 23:43:28] "[35m[1mPOST /review HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 23:43:29] "[37mGET /review?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 23:43:29] "[37mGET /review?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 23:43:29] "[37mGET /review?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 23:43:29] "[37mGET /review?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 23:43:29] "[37mGET /review?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [05/Apr/2024 23:43:29] "[37mGET /review?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\Image_Scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 338-310-597
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:26:26] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:26:27] "[37mGET /static/css/main.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:26:27] "[37mGET /static/css/style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:26:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:27:44] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:28:36] "[37mGET /?content=bike HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:30:44] "[37mGET /?content=bike HTTP/1.1[0m" 200 -
+INFO:root:400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:30:51] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:root:400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:30:54] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:31:15] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:31:38] "[35m[1mPOST /review HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:31:38] "[37mGET /review?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:31:38] "[37mGET /review?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:31:38] "[37mGET /review?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:31:38] "[37mGET /review?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:31:38] "[37mGET /review?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:31:38] "[37mGET /review?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\Image_Scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 338-310-597
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\Image_Scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 338-310-597
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\Image_Scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 338-310-597
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:35:21] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:35:42] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:37:53] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:38:43] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in 'E:\\Data_Science _master\\Python\\Python Project\\Image_Scraper\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 338-310-597
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:41:50] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:root:No connection adapters were found for 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwBAMAAAClLOS0AAAAD1BMVEUAAAALV9AMWM8LV9AMWM/cqVvwAAAABXRSTlMAv4D/QIO3/x8AAADqSURBVHgBxJFHEgIxDARnw51g7sQHYMSd+P83UZaqN99pkgu5vRpLf2arZSo7aJHablrmHMrpmGyze06V+mxOpoLyMTiMldaGlWUlC/QZK3cF5T9XtpvJYY1ZUQ5Sm0ZK6nfVoTwVd2Ku6H2RIs5VEmt/yk4Nu0Q70dizZhcn5ciyVl/4RCHi35Q4i5VcKT8UWLlCIUus5MpXRBSZGGXi4RQOrtC8CoRlLgTkSoZzWWsQ/SAURkXEJ4oLKIXNyVzJgpcZFAVBNM8lCxgpypB6qMDIyQlF8N6Uvn4jmPgxAb20GOLK4CoMVAUA2/FUWazwZNUAAAAASUVORK5CYII='
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:41:57] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:root:No connection adapters were found for 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwBAMAAAClLOS0AAAAD1BMVEUAAAALV9AMWM8LV9AMWM/cqVvwAAAABXRSTlMAv4D/QIO3/x8AAADqSURBVHgBxJFHEgIxDARnw51g7sQHYMSd+P83UZaqN99pkgu5vRpLf2arZSo7aJHablrmHMrpmGyze06V+mxOpoLyMTiMldaGlWUlC/QZK3cF5T9XtpvJYY1ZUQ5Sm0ZK6nfVoTwVd2Ku6H2RIs5VEmt/yk4Nu0Q70dizZhcn5ciyVl/4RCHi35Q4i5VcKT8UWLlCIUus5MpXRBSZGGXi4RQOrtC8CoRlLgTkSoZzWWsQ/SAURkXEJ4oLKIXNyVzJgpcZFAVBNM8lCxgpypB6qMDIyQlF8N6Uvn4jmPgxAb20GOLK4CoMVAUA2/FUWazwZNUAAAAASUVORK5CYII='
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:41:58] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:43:15] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:43:37] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:47:09] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:47:16] "[33mGET /succes HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:47:19] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:47:23] "[33mGET /succes.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:47:28] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:root:No connection adapters were found for 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwBAMAAAClLOS0AAAAD1BMVEUAAAALV9AMWM8LV9AMWM/cqVvwAAAABXRSTlMAv4D/QIO3/x8AAADqSURBVHgBxJFHEgIxDARnw51g7sQHYMSd+P83UZaqN99pkgu5vRpLf2arZSo7aJHablrmHMrpmGyze06V+mxOpoLyMTiMldaGlWUlC/QZK3cF5T9XtpvJYY1ZUQ5Sm0ZK6nfVoTwVd2Ku6H2RIs5VEmt/yk4Nu0Q70dizZhcn5ciyVl/4RCHi35Q4i5VcKT8UWLlCIUus5MpXRBSZGGXi4RQOrtC8CoRlLgTkSoZzWWsQ/SAURkXEJ4oLKIXNyVzJgpcZFAVBNM8lCxgpypB6qMDIyQlF8N6Uvn4jmPgxAb20GOLK4CoMVAUA2/FUWazwZNUAAAAASUVORK5CYII='
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:47:33] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:47:40] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:48:04] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:48:12] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:48:58] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:49:33] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:49:35] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:50:18] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:50:19] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:50:19] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:root:No connection adapters were found for 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwBAMAAAClLOS0AAAAD1BMVEUAAAALV9AMWM8LV9AMWM/cqVvwAAAABXRSTlMAv4D/QIO3/x8AAADqSURBVHgBxJFHEgIxDARnw51g7sQHYMSd+P83UZaqN99pkgu5vRpLf2arZSo7aJHablrmHMrpmGyze06V+mxOpoLyMTiMldaGlWUlC/QZK3cF5T9XtpvJYY1ZUQ5Sm0ZK6nfVoTwVd2Ku6H2RIs5VEmt/yk4Nu0Q70dizZhcn5ciyVl/4RCHi35Q4i5VcKT8UWLlCIUus5MpXRBSZGGXi4RQOrtC8CoRlLgTkSoZzWWsQ/SAURkXEJ4oLKIXNyVzJgpcZFAVBNM8lCxgpypB6qMDIyQlF8N6Uvn4jmPgxAb20GOLK4CoMVAUA2/FUWazwZNUAAAAASUVORK5CYII='
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:51:29] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:root:No connection adapters were found for 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwBAMAAAClLOS0AAAAD1BMVEUAAAALV9AMWM8LV9AMWM/cqVvwAAAABXRSTlMAv4D/QIO3/x8AAADqSURBVHgBxJFHEgIxDARnw51g7sQHYMSd+P83UZaqN99pkgu5vRpLf2arZSo7aJHablrmHMrpmGyze06V+mxOpoLyMTiMldaGlWUlC/QZK3cF5T9XtpvJYY1ZUQ5Sm0ZK6nfVoTwVd2Ku6H2RIs5VEmt/yk4Nu0Q70dizZhcn5ciyVl/4RCHi35Q4i5VcKT8UWLlCIUus5MpXRBSZGGXi4RQOrtC8CoRlLgTkSoZzWWsQ/SAURkXEJ4oLKIXNyVzJgpcZFAVBNM8lCxgpypB6qMDIyQlF8N6Uvn4jmPgxAb20GOLK4CoMVAUA2/FUWazwZNUAAAAASUVORK5CYII='
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:51:33] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:51:36] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:52:01] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:56:57] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:root:No connection adapters were found for 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwBAMAAAClLOS0AAAAD1BMVEUAAAALV9AMWM8LV9AMWM/cqVvwAAAABXRSTlMAv4D/QIO3/x8AAADqSURBVHgBxJFHEgIxDARnw51g7sQHYMSd+P83UZaqN99pkgu5vRpLf2arZSo7aJHablrmHMrpmGyze06V+mxOpoLyMTiMldaGlWUlC/QZK3cF5T9XtpvJYY1ZUQ5Sm0ZK6nfVoTwVd2Ku6H2RIs5VEmt/yk4Nu0Q70dizZhcn5ciyVl/4RCHi35Q4i5VcKT8UWLlCIUus5MpXRBSZGGXi4RQOrtC8CoRlLgTkSoZzWWsQ/SAURkXEJ4oLKIXNyVzJgpcZFAVBNM8lCxgpypB6qMDIyQlF8N6Uvn4jmPgxAb20GOLK4CoMVAUA2/FUWazwZNUAAAAASUVORK5CYII='
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:57:06] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:57:11] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:57:38] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:58:30] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:58:33] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:58:44] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:58:46] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 10:59:56] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 11:04:52] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 11:05:32] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 11:40:05] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 338-310-597
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 17:01:42] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 17:01:42] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 17:02:22] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:root:No connection adapters were found for 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwBAMAAAClLOS0AAAAD1BMVEUAAAALV9AMWM8LV9AMWM/cqVvwAAAABXRSTlMAv4D/QIO3/x8AAADqSURBVHgBxJFHEgIxDARnw51g7sQHYMSd+P83UZaqN99pkgu5vRpLf2arZSo7aJHablrmHMrpmGyze06V+mxOpoLyMTiMldaGlWUlC/QZK3cF5T9XtpvJYY1ZUQ5Sm0ZK6nfVoTwVd2Ku6H2RIs5VEmt/yk4Nu0Q70dizZhcn5ciyVl/4RCHi35Q4i5VcKT8UWLlCIUus5MpXRBSZGGXi4RQOrtC8CoRlLgTkSoZzWWsQ/SAURkXEJ4oLKIXNyVzJgpcZFAVBNM8lCxgpypB6qMDIyQlF8N6Uvn4jmPgxAb20GOLK4CoMVAUA2/FUWazwZNUAAAAASUVORK5CYII='
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 17:02:31] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:root:No connection adapters were found for 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwBAMAAAClLOS0AAAAD1BMVEUAAAALV9AMWM8LV9AMWM/cqVvwAAAABXRSTlMAv4D/QIO3/x8AAADqSURBVHgBxJFHEgIxDARnw51g7sQHYMSd+P83UZaqN99pkgu5vRpLf2arZSo7aJHablrmHMrpmGyze06V+mxOpoLyMTiMldaGlWUlC/QZK3cF5T9XtpvJYY1ZUQ5Sm0ZK6nfVoTwVd2Ku6H2RIs5VEmt/yk4Nu0Q70dizZhcn5ciyVl/4RCHi35Q4i5VcKT8UWLlCIUus5MpXRBSZGGXi4RQOrtC8CoRlLgTkSoZzWWsQ/SAURkXEJ4oLKIXNyVzJgpcZFAVBNM8lCxgpypB6qMDIyQlF8N6Uvn4jmPgxAb20GOLK4CoMVAUA2/FUWazwZNUAAAAASUVORK5CYII='
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 17:02:40] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:root:No connection adapters were found for 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwBAMAAAClLOS0AAAAD1BMVEUAAAALV9AMWM8LV9AMWM/cqVvwAAAABXRSTlMAv4D/QIO3/x8AAADqSURBVHgBxJFHEgIxDARnw51g7sQHYMSd+P83UZaqN99pkgu5vRpLf2arZSo7aJHablrmHMrpmGyze06V+mxOpoLyMTiMldaGlWUlC/QZK3cF5T9XtpvJYY1ZUQ5Sm0ZK6nfVoTwVd2Ku6H2RIs5VEmt/yk4Nu0Q70dizZhcn5ciyVl/4RCHi35Q4i5VcKT8UWLlCIUus5MpXRBSZGGXi4RQOrtC8CoRlLgTkSoZzWWsQ/SAURkXEJ4oLKIXNyVzJgpcZFAVBNM8lCxgpypB6qMDIyQlF8N6Uvn4jmPgxAb20GOLK4CoMVAUA2/FUWazwZNUAAAAASUVORK5CYII='
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 17:02:48] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:root:No connection adapters were found for 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwBAMAAAClLOS0AAAAD1BMVEUAAAALV9AMWM8LV9AMWM/cqVvwAAAABXRSTlMAv4D/QIO3/x8AAADqSURBVHgBxJFHEgIxDARnw51g7sQHYMSd+P83UZaqN99pkgu5vRpLf2arZSo7aJHablrmHMrpmGyze06V+mxOpoLyMTiMldaGlWUlC/QZK3cF5T9XtpvJYY1ZUQ5Sm0ZK6nfVoTwVd2Ku6H2RIs5VEmt/yk4Nu0Q70dizZhcn5ciyVl/4RCHi35Q4i5VcKT8UWLlCIUus5MpXRBSZGGXi4RQOrtC8CoRlLgTkSoZzWWsQ/SAURkXEJ4oLKIXNyVzJgpcZFAVBNM8lCxgpypB6qMDIyQlF8N6Uvn4jmPgxAb20GOLK4CoMVAUA2/FUWazwZNUAAAAASUVORK5CYII='
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 17:02:58] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 17:03:33] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:root:[Errno 22] Invalid argument: 'scrap_images/bra+se*_0.jpg'
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 17:03:47] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 17:04:27] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Apr/2024 17:04:43] "[37mGET / HTTP/1.1[0m" 200 -

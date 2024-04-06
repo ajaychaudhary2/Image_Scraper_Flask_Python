@@ -1,0 +1,23 @@
+
+body, html {
+    margin: 0;
+    font-family: sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.content {
+    margin: 0 auto;
+    width: 400px;
+}
+
+
+
+.form {
+    margin-top: 20px;
+}
+
+#content {
+    width: 70%;
+}

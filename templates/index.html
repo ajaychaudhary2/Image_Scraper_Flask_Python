@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+<title>Search Page</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+{% endblock %}
+
+{% block body %}
+<div class="content">
+
+    <form class="form-wrapper" action="/review "  method="post">
+        <input type="text" id="search" placeholder="Search for Image to Downlaod.." name="content" required>
+        <input type="submit" value="Download" id="submit">
+    </form>      
+
+</div>
+{% endblock %}
